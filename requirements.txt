@@ -1,0 +1,9 @@
+alembic
+fastapi
+flake8
+isort
+psycopg2
+pydantic
+python-dotenv
+SQLAlchemy
+uvicorn

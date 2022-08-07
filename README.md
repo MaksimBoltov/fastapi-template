@@ -1,0 +1,1 @@
+# Base template for FastAPI project
